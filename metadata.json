@@ -1,0 +1,6 @@
+{
+  "name": "BloodConnect",
+  "description": "Location-based blood donor finder with real-time request tracking and privacy-first donor profiles.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
